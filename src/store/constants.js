@@ -1,0 +1,4 @@
+export default {
+    SEARCH_INPUT: 'SEARCH_INPUT',
+    FORM_SUBMIT: 'FORM_SUBMIT'
+}
